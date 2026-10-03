@@ -1,5 +1,6 @@
-<h1>처음 글자</h1>
-<button>바꾸기</button>
+<h1 id="title">처음 글자</h1>
+<button id="btn">바꾸기</button>
+
  
 <style>
   h1 { color: #D1E0FC; }
