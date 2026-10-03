@@ -3,7 +3,7 @@
 
  
 <style>
-  h1 { color: #82BEF5; }
+  h1 { color: #4338ca; }
 </style>
  
 <script>
